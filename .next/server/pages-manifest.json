@@ -1,0 +1,14 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/_error": "pages/_error.js",
+  "/api/lead": "pages/api/lead.js",
+  "/ajuda": "pages/ajuda.html",
+  "/contato": "pages/contato.html",
+  "/": "pages/index.html",
+  "/obrigado": "pages/obrigado.html",
+  "/plano-odontologico": "pages/plano-odontologico.html",
+  "/seguro-viagem": "pages/seguro-viagem.html",
+  "/seguro-de-vida": "pages/seguro-de-vida.html",
+  "/404": "pages/404.html"
+}

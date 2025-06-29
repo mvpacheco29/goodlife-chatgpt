@@ -1,0 +1,16 @@
+{
+  "name": "GoodLife Corretora de Seguros",
+  "short_name": "GoodLife",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f9fafb",
+  "theme_color": "#1d4ed8",
+  "description": "Site institucional para corretora de seguros GoodLife.",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "shell",
+      "label": "Gerar sitemap.xml com next-sitemap",
+      "command": "npx next-sitemap",
+      "group": "build",
+      "isBackground": false
+    }
+  ]
+}
